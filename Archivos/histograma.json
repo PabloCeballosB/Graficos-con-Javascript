@@ -1,0 +1,637 @@
+[{"COD":"EPA87213", "Nombre":"Tasa de paro de la población. Ambos sexos. Total Nacional. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+,{"Id":16473, "Variable":{"Id":349, "Nombre":"Total Nacional", "Codigo":"NAC"}
+, "Nombre":"Total Nacional", "Codigo":"00"}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":14.57}
+]
+}
+,{"COD":"EPA11419", "Nombre":"Tasa de paro de la población. Albacete. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":3, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Albacete", "Codigo":"02"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":15.49}
+]
+}
+,{"COD":"EPA11418", "Nombre":"Tasa de paro de la población. Alicante/Alacant. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":4, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Alicante/Alacant", "Codigo":"03"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":18.43}
+]
+}
+,{"COD":"EPA11417", "Nombre":"Tasa de paro de la población. Almería. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":5, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Almería", "Codigo":"04"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":21.41}
+]
+}
+,{"COD":"EPA11416", "Nombre":"Tasa de paro de la población. Araba/Álava. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":2, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Araba/Álava", "Codigo":"01"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":11.44}
+]
+}
+,{"COD":"EPA11415", "Nombre":"Tasa de paro de la población. Asturias. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":33, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Asturias", "Codigo":"33"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":12.32}
+]
+}
+,{"COD":"EPA11414", "Nombre":"Tasa de paro de la población. Ávila. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":6, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Ávila", "Codigo":"05"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":12.08}
+]
+}
+,{"COD":"EPA11413", "Nombre":"Tasa de paro de la población. Badajoz. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":7, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Badajoz", "Codigo":"06"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":18.19}
+]
+}
+,{"COD":"EPA11412", "Nombre":"Tasa de paro de la población. Balears, Illes. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":8, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Balears, Illes", "Codigo":"07"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":10.57}
+]
+}
+,{"COD":"EPA11411", "Nombre":"Tasa de paro de la población. Barcelona. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":9, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Barcelona", "Codigo":"08"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":10.79}
+]
+}
+,{"COD":"EPA11410", "Nombre":"Tasa de paro de la población. Bizkaia. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":48, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Bizkaia", "Codigo":"48"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":10.04}
+]
+}
+,{"COD":"EPA11409", "Nombre":"Tasa de paro de la población. Burgos. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":10, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Burgos", "Codigo":"09"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":9.09}
+]
+}
+,{"COD":"EPA11408", "Nombre":"Tasa de paro de la población. Cáceres. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":11, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Cáceres", "Codigo":"10"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":17.44}
+]
+}
+,{"COD":"EPA11407", "Nombre":"Tasa de paro de la población. Cádiz. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":12, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Cádiz", "Codigo":"11"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":23.16}
+]
+}
+,{"COD":"EPA11406", "Nombre":"Tasa de paro de la población. Cantabria. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":39, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Cantabria", "Codigo":"39"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":10.04}
+]
+}
+,{"COD":"EPA11405", "Nombre":"Tasa de paro de la población. Castellón/Castelló. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":13, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Castellón/Castelló", "Codigo":"12"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":12.54}
+]
+}
+,{"COD":"EPA11404", "Nombre":"Tasa de paro de la población. Ciudad Real. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":14, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Ciudad Real", "Codigo":"13"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":16.29}
+]
+}
+,{"COD":"EPA11403", "Nombre":"Tasa de paro de la población. Córdoba. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":15, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Córdoba", "Codigo":"14"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":22.92}
+]
+}
+,{"COD":"EPA11402", "Nombre":"Tasa de paro de la población. Coruña, A. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":16, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Coruña, A", "Codigo":"15"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":8.29}
+]
+}
+,{"COD":"EPA11401", "Nombre":"Tasa de paro de la población. Cuenca. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":17, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Cuenca", "Codigo":"16"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":11.55}
+]
+}
+,{"COD":"EPA11400", "Nombre":"Tasa de paro de la población. Gipuzkoa. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":21, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Gipuzkoa", "Codigo":"20"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":8.99}
+]
+}
+,{"COD":"EPA11399", "Nombre":"Tasa de paro de la población. Girona. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":18, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Girona", "Codigo":"17"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":10.83}
+]
+}
+,{"COD":"EPA11398", "Nombre":"Tasa de paro de la población. Granada. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":19, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Granada", "Codigo":"18"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":22.13}
+]
+}
+,{"COD":"EPA11397", "Nombre":"Tasa de paro de la población. Guadalajara. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":20, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Guadalajara", "Codigo":"19"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":11.02}
+]
+}
+,{"COD":"EPA11396", "Nombre":"Tasa de paro de la población. Huelva. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":22, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Huelva", "Codigo":"21"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":26.79}
+]
+}
+,{"COD":"EPA11395", "Nombre":"Tasa de paro de la población. Huesca. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":23, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Huesca", "Codigo":"22"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":7.33}
+]
+}
+,{"COD":"EPA11394", "Nombre":"Tasa de paro de la población. Jaén. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":24, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Jaén", "Codigo":"23"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":22.59}
+]
+}
+,{"COD":"EPA11393", "Nombre":"Tasa de paro de la población. León. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":25, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"León", "Codigo":"24"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":10.53}
+]
+}
+,{"COD":"EPA11392", "Nombre":"Tasa de paro de la población. Lleida. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":26, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Lleida", "Codigo":"25"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":11.31}
+]
+}
+,{"COD":"EPA11391", "Nombre":"Tasa de paro de la población. Lugo. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":28, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Lugo", "Codigo":"27"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":8.62}
+]
+}
+,{"COD":"EPA11390", "Nombre":"Tasa de paro de la población. Madrid. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":29, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Madrid", "Codigo":"28"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":11.84}
+]
+}
+,{"COD":"EPA11389", "Nombre":"Tasa de paro de la población. Málaga. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":30, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Málaga", "Codigo":"29"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":20.18}
+]
+}
+,{"COD":"EPA11388", "Nombre":"Tasa de paro de la población. Murcia. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":31, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Murcia", "Codigo":"30"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":14.65}
+]
+}
+,{"COD":"EPA11387", "Nombre":"Tasa de paro de la población. Navarra. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":32, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Navarra", "Codigo":"31"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":10.7}
+]
+}
+,{"COD":"EPA11386", "Nombre":"Tasa de paro de la población. Ourense. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":53, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Ourense", "Codigo":"32"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":9.77}
+]
+}
+,{"COD":"EPA11385", "Nombre":"Tasa de paro de la población. Palencia. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":34, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Palencia", "Codigo":"34"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":8.81}
+]
+}
+,{"COD":"EPA11384", "Nombre":"Tasa de paro de la población. Palmas, Las. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":35, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Palmas, Las", "Codigo":"35"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":24.27}
+]
+}
+,{"COD":"EPA11383", "Nombre":"Tasa de paro de la población. Pontevedra. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":36, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Pontevedra", "Codigo":"36"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":13.16}
+]
+}
+,{"COD":"EPA11382", "Nombre":"Tasa de paro de la población. Rioja, La. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":27, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Rioja, La", "Codigo":"26"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":12.21}
+]
+}
+,{"COD":"EPA11381", "Nombre":"Tasa de paro de la población. Salamanca. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":37, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Salamanca", "Codigo":"37"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":12.56}
+]
+}
+,{"COD":"EPA11380", "Nombre":"Tasa de paro de la población. Santa Cruz de Tenerife. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":38, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Santa Cruz de Tenerife", "Codigo":"38"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":23.48}
+]
+}
+,{"COD":"EPA11379", "Nombre":"Tasa de paro de la población. Segovia. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":40, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Segovia", "Codigo":"40"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":8.17}
+]
+}
+,{"COD":"EPA11378", "Nombre":"Tasa de paro de la población. Sevilla. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":41, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Sevilla", "Codigo":"41"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":23.05}
+]
+}
+,{"COD":"EPA11377", "Nombre":"Tasa de paro de la población. Soria. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":42, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Soria", "Codigo":"42"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":6.16}
+]
+}
+,{"COD":"EPA11376", "Nombre":"Tasa de paro de la población. Tarragona. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":43, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Tarragona", "Codigo":"43"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":11.76}
+]
+}
+,{"COD":"EPA11375", "Nombre":"Tasa de paro de la población. Teruel. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":44, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Teruel", "Codigo":"44"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":7.05}
+]
+}
+,{"COD":"EPA11374", "Nombre":"Tasa de paro de la población. Toledo. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":45, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Toledo", "Codigo":"45"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":17.13}
+]
+}
+,{"COD":"EPA11373", "Nombre":"Tasa de paro de la población. Valencia/València. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":46, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Valencia/València", "Codigo":"46"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":15.26}
+]
+}
+,{"COD":"EPA11372", "Nombre":"Tasa de paro de la población. Valladolid. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":47, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Valladolid", "Codigo":"47"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":9.66}
+]
+}
+,{"COD":"EPA11371", "Nombre":"Tasa de paro de la población. Zamora. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":49, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Zamora", "Codigo":"49"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":10.63}
+]
+}
+,{"COD":"EPA11370", "Nombre":"Tasa de paro de la población. Zaragoza. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":50, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Zaragoza", "Codigo":"50"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":9.39}
+]
+}
+,{"COD":"EPA11369", "Nombre":"Tasa de paro de la población. Ceuta. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":51, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Ceuta", "Codigo":"51"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":27.07}
+]
+}
+,{"COD":"EPA11368", "Nombre":"Tasa de paro de la población. Melilla. Ambos sexos. Total. ", "T3_Unidad":"Tasas", "T3_Escala":" ", "MetaData":[{"Id":283910, "Variable":{"Id":3, "Nombre":"Tipo de dato", "Codigo":""}
+, "Nombre":"Tasa de paro de la población", "Codigo":""}
+,{"Id":454, "Variable":{"Id":18, "Nombre":"Sexo", "Codigo":""}
+, "Nombre":"Ambos sexos", "Codigo":"", "Nota":"NO USAR, Coger siempre la 451"}
+,{"Id":52, "Variable":{"Id":115, "Nombre":"Provincias", "Codigo":"PROV"}
+, "Nombre":"Melilla", "Codigo":"52"}
+,{"Id":21387, "Variable":{"Id":141, "Nombre":"Nacionalidad", "Codigo":""}
+, "Nombre":"Total", "Codigo":""}
+]
+, "Data":[{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"T3", "Anyo":2021, "Valor":19.44}
+]
+}
+]
